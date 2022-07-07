@@ -1,6 +1,6 @@
 # Ceiling Fan Control
 Testing purpose only
-Usage: 
+Syntax: 
 
 Typing <your choice> then ENTER
 1 : to control speed
